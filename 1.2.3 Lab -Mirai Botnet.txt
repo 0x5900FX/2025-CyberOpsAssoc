@@ -1,0 +1,21 @@
+Mirai Botnet Lab_1.2.3
+The Mirai botnet is a well-known malware that targets Internet of Things (IoT) devices, turning them into a network of remotely controlled bots used to launch large-scale Distributed Denial of Service (DDoS) attacks.
+
+a. What is the vulnerability? 
+Usage of Default and Weak Credentials.
+
+b. Who might exploit it? Explain.
+Cybercriminals
+Hacktivist
+Script-Kiddies
+
+c. Why does the vulnerability exist?
+Lack of regulation 
+Poor Security Practices
+User Negligence
+
+d. What could be done to limit the vulnerability?
+Firmware update
+Change of Default Credentials
+Disabling Unused features
+Industry Standards

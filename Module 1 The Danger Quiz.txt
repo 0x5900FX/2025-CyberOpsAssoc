@@ -1,0 +1,41 @@
+Module 1 The Danger Quiz
+
+An attacker sends a piece of malware as an email attachment to employees in a company. What is one probable purpose of the attack?
+Searching and obtaining trade secrets
+
+What is cyberwarfare?
+It is an attack designed to disrupt, corrupt, or exploit national interests.
+
+
+What type of malware has the primary objective of spreading across the network?
+Worm
+
+What is a potential risk when using a free and open wireless hotspot in a public location?
+Network traffic might be hijacked and information stolen.
+
+At the request of investors, a company is proceeding with cyber attribution with a particular attack that was conducted from an external source. Which security term is used to describe the person or device responsible for the attack?
+Threat actor
+
+What name is given to an amateur hacker?
+Script kiddie
+
+What commonly motivates cybercriminals to attack networks as compared to hacktivists or state-sponsored hackers?
+Financial gain
+
+What is a botnet?
+A network of infected computers that are controlled as a group
+
+What is a rogue wireless hotspot?
+It is a hotspot that appears to be from a legitimate business but was actually set up by someone without the permission from the business.
+
+
+What is the best definition of personally identifiable information (PII)?
+Data that is collected by businesses to distinguish identities of individuals.
+
+
+What was used as a cyberwarfare weapon to attack a uranium enrichment facility in Iran?
+Stuxnet
+
+A company pays a significant sum of money to hackers in order to regain control of an email and data server. Which type of security attack was used by the hackers?
+Ransomware
+
