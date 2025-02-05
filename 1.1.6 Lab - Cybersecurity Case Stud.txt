@@ -1,0 +1,27 @@
+1.1.6 Lab - Cybersecurity Case Studies
+
+
+Write an analysis of a cyberattack. 
+Select one of the high-profile cyberattacks from Step 1a and write an analysis of the attack that includes 
+answers to the questions below. 
+Questions: 
+a. Who were the victims of the attacks?
+ 15 millions Health Care customers
+
+b. What technologies and tools were used in the attack?
+ Phising , Malware , Data-Exfiltration Tools
+
+c. When did the attack happen within the network?
+ Prior October 2019
+
+d. What systems were targeted?
+ Lifelab's Internal systems and Database
+
+e. What was the motivation of the attackers? What did they hope to achieve?
+ Financial Gains 
+
+f. What was the outcome of the attack?
+ Stolen data
+ Reputation Damages
+ Ransom Payments
+ 
