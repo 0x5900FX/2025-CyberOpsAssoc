@@ -1,0 +1,20 @@
+2.2.5 Lab - Becoming a Defender
+
+1. Popular Certs
+
+CISSP (ISC)2
+CEH EC-Council
+Sec+ CompTIA
+CISM ISACA
+OSCP Offensive Security
+GSEC GIAC
+CCSP (ISC)2
+
+
+
+2. Only One 
+Certified Ethical Hacker (CEH)
+Exam Req:
+Pass exam (125 Qsn 4hrs)
+No prerequisites (recommended 2 yrs of Exp)
+Skills and Knowledge -> Identify Vulnerability in the system using tools and techniques in a legal manner
