@@ -18,3 +18,32 @@ Exam Req:
 Pass exam (125 Qsn 4hrs)
 No prerequisites (recommended 2 yrs of Exp)
 Skills and Knowledge -> Identify Vulnerability in the system using tools and techniques in a legal manner
+
+
+Step2 F
+
+Investigate online resources that allow you to legally test your hacking skills. These tools allow a novice with limited cyber security experience to sharpen their penetration testing skills. One such site is Google Gruyere (Web Application Exploits and Defenses). What kinds of challenges can you find?
+
+
+Google Gruyere (Web Application Exploits and Defenses)
+Web App Securtiy 
+
+
+HTB HackTheBox
+CTF platform
+
+ 
+OverTheWire 
+Linux CMDline and exploitation 
+
+
+CTFtime
+CTF challenges
+
+
+PentesterLab
+Web Pentesting 
+
+
+OWASP Juice Shop
+Top 10 Vulns
