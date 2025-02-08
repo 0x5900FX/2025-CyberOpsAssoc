@@ -1,0 +1,19 @@
+2.1.9
+
+Which SOC job role manages all the resources of the SOC and serves as a point of contact for the larger organization or customer?
+SOC Manager
+
+
+Which SOC job role processes security alerts and forwards tickets to Tier 2 if necessary?
+Cybersecurity Analyst
+
+Which SOC job role is responsible for deep investigation of incidents?git
+Incident Responder
+
+
+Which device integrates security information and event management into a single platform?
+SIEM
+
+
+Which device integrates orchestration tools and resources to automatically respond to security events?
+SOAR
