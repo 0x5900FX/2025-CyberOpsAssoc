@@ -1,0 +1,60 @@
+2.3.2 Quiz
+
+Which personnel in a SOC is assigned the task of verifying whether an alert triggered by monitoring software represents a true security incident?
+Tier 1 Personnel
+
+After a security incident is verified in a SOC, an incident responder reviews the incident but cannot identify the source of the incident and form an effective mitigation procedure. To whom should the incident ticket be escalated?
+A SME for further investigation
+
+
+Which two services are provided by security operations centers? (Choose two.)
+Monitoring network security threats
+Managing comprehensive threat solutions
+
+
+Which metric is used in SOCs to evaluate the average time that it takes to identify that valid security incidents have occurred in the network?
+MTTD
+
+
+Which KPI metric does SOAR use to measure the length of time that threat actors have access to a network before they are detected and the access of the threat actors stopped?
+Dwell Time
+
+
+What is the role of SIEM?
+To analyze all the data that firewalls, network appliances, intrusion detection systems, and other devices generate and institute preventive measures
+
+
+What is a characteristic of the SOAR security platform?
+To include predefined playbooks that enable automatic response to specific threats
+
+
+A network security professional has applied for a Tier 2 position in a SOC. What is a typical job function that would be assigned to a new employee?
+Further investigating security incidents
+
+
+If a SOC has a goal of 99.99% uptime, how many minutes of downtime a year would be considered within its goal?
+52.56
+
+
+Which organization offers the vendor-neutral CySA+ certification?
+CompTIA
+
+
+In the operation of a SOC, which system is frequently used to let an analyst select alerts from a pool to investigate?
+Ticketing system
+
+
+How can a security information and event management system in a SOC be used to help personnel fight against security threats?
+By collecting and filtering data
+
+
+Which three technologies should be included in a security information and event management system in a SOC? (Choose three.)
+Threat intelligence
+Security monitoring
+Vulnerability tracking
+
+
+
+
+
+
